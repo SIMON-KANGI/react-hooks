@@ -1,0 +1,23 @@
+[
+   {
+        "name":"UseEffect",
+        "path":"/UseEffect",
+        "id":1
+    },
+    {
+        "name":"UseState",
+        "path":"/UseState",
+        "id":2
+    },
+    {
+        "name":"UseContext",
+        "path":"/UseContext",
+        "id":3
+    },
+    {
+        "name":"UseReducer",
+        "path":"/UseReducer",
+        "id":4
+    } 
+]
+    

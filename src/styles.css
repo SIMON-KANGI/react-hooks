@@ -1,0 +1,23 @@
+button{
+width:7rem;
+font-size:2rem;
+}
+#text{
+    font-size:2em;
+}
+#pages{
+
+    width:200px;
+    height:200px;
+    margin:10px;
+}
+#somepage{
+    display:flex;
+    flex-flow: wrap;
+}
+.active{
+     background-color:#e67e22 
+}
+.inactive{
+    background-color:#35302c 
+}
